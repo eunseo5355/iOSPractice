@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "yagom_symbol~universal@1x.png",
+      "filename" : "IMG_4413 2.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "yagom_symbol~universal@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "yagom_symbol~universal@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
